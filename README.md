@@ -9,3 +9,17 @@ Throughout my professional journey, I have pursued a data-driven approach to sol
 Now, I am committed to applying this mindset in logistics—where operational data can unlock efficiency, optimize routes, and increase profitability. For me, analytics is not just a tool; it’s a way of thinking, and the foundation of every strategy I deliver.
 
 Today, I am here because I know how to turn uncertainty into opportunity, and strategy into impact. And I am ready for the next mission.
+
+### What do I do?
+![Static Badge](https://img.shields.io/badge/python-%23681752?style=for-the-badge&logo=python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/sql-%23f09191?style=for-the-badge&logo=mysql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/r-%23106898?style=for-the-badge&logo=r&logoColor=white)
+![Static Badge](https://img.shields.io/badge/vba-%23226b68?style=for-the-badge&logo=google%20sheets&logoColor=white)
+![Static Badge](https://img.shields.io/badge/QBE-%23c3272b?style=for-the-badge&logo=google%20docs&logoColor=white)
+![Static Badge](https://img.shields.io/badge/PowerBi-%23549688?style=for-the-badge&logo=google%20analytics&logoColor=white)
+![Static Badge](https://img.shields.io/badge/sap-%2311659a?style=for-the-badge&logo=sap&logoColor=white)
+![Static Badge](https://img.shields.io/badge/javascript-%23f68c60?style=for-the-badge&logo=javascript&logoColor=white)
+
+
+
+
