@@ -15,8 +15,8 @@ Today, I am here because I know how to turn uncertainty into opportunity, and st
 ![Static Badge](https://img.shields.io/badge/sql-%23f09191?style=for-the-badge&logo=mysql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/r-%23106898?style=for-the-badge&logo=r&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/vba-%23226b68?style=for-the-badge&logo=google%20sheets&logoColor=white)
-![Static Badge](https://img.shields.io/badge/PowerBi-%23549688?style=for-the-badge&logo=google%20analytics&logoColor=white)
-![Static Badge](https://img.shields.io/badge/tableau-%23d75455?style=for-the-badge&logo=salesforce&logoColor=white)
+![Static Badge](https://custom-icon-badges.demolab.com/badge/PowerBi-%23549688?style=for-the-badge&logo=power-bi&logoColor=white)
+![Static Badge](https://custom-icon-badges.demolab.com/badge/tableau-%23d75455?style=for-the-badge&logo=tableau&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/sap-%2311659a?style=for-the-badge&logo=sap&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/html-%23f97d1c?style=for-the-badge&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/javascript-%23f68c60?style=for-the-badge&logo=javascript&logoColor=white)
@@ -25,7 +25,11 @@ Today, I am here because I know how to turn uncertainty into opportunity, and st
 ### Send me a message!
 
 <a href="https://www.linkedin.com/in/weihan-weng-026734227">
-  <img alt="Python" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" />
+  <img alt="Linkedin" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" />
+</a>
+
+<a href="https://profile.playstation.com/mywillow92">
+ <img alt="PlayStation" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" />
 </a>
 
 
