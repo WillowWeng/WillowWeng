@@ -22,6 +22,11 @@ Today, I am here because I know how to turn uncertainty into opportunity, and st
 ![Static Badge](https://img.shields.io/badge/javascript-%23f68c60?style=for-the-badge&logo=javascript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/quickbooks-%238cc269?style=for-the-badge&logo=quickbooks&logoColor=white)
 
+### Send me a message!
+
+<a href="https://www.linkedin.com/in/weihan-weng-026734227">
+  <img alt="Python" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" />
+</a>
 
 
 
