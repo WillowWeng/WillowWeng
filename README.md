@@ -15,10 +15,13 @@ Today, I am here because I know how to turn uncertainty into opportunity, and st
 ![Static Badge](https://img.shields.io/badge/sql-%23f09191?style=for-the-badge&logo=mysql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/r-%23106898?style=for-the-badge&logo=r&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/vba-%23226b68?style=for-the-badge&logo=google%20sheets&logoColor=white)
-![Static Badge](https://img.shields.io/badge/QBE-%23c3272b?style=for-the-badge&logo=google%20docs&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/PowerBi-%23549688?style=for-the-badge&logo=google%20analytics&logoColor=white)
+![Static Badge](https://img.shields.io/badge/tableau-%23d75455?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/sap-%2311659a?style=for-the-badge&logo=sap&logoColor=white)
+![Static Badge](https://img.shields.io/badge/html-%23f97d1c?style=for-the-badge&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/javascript-%23f68c60?style=for-the-badge&logo=javascript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/quickbooks-%238cc269?style=for-the-badge&logo=quickbooks&logoColor=white)
+
 
 
 
