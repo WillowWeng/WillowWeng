@@ -10,6 +10,15 @@ Now, I am committed to applying this mindset in logistics—where operational da
 
 Today, I am here because I know how to turn uncertainty into opportunity, and strategy into impact. And I am ready for the next mission.
 
+### Selected Project
+
+| Project | Tools | Project Overview | 
+|---|---|---|
+|[Obesity Prediction](https://github.com/WillowWeng/Obesity-Prediction) | Python, PowerPoint | The purpose of this project is to help obese people and healthcare organizations explore the main causes of obesity |
+|[Winery Customer Analysis](https://github.com/WillowWeng/Winery-Customer-Analysis) | R, Python, PowerPoint | The project focused on analyzing a dataset containing customer, sales, and marketing information from Winery, covering over 65,000 orders between 2008 and 2010. |
+
+
+
 ### What do I do?
 ![Python](https://img.shields.io/badge/python-%23681752?style=for-the-badge&logo=python&logoColor=white)
 ![Sql](https://img.shields.io/badge/sql-%23f09191?style=for-the-badge&logo=mysql&logoColor=white)
