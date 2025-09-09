@@ -18,8 +18,10 @@ Today, I am here because I know how to turn uncertainty into opportunity, and st
 ![Powerbi](https://custom-icon-badges.demolab.com/badge/PowerBi-%23549688?style=for-the-badge&logo=power-bi&logoColor=white)
 ![Tableau](https://custom-icon-badges.demolab.com/badge/tableau-%23d75455?style=for-the-badge&logo=tableau&logoColor=white)
 ![Html](https://img.shields.io/badge/html-%23f97d1c?style=for-the-badge&logo=html5&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000?style=for-the-badge&logo=json&logoColor=fff)
 ![Javascript](https://img.shields.io/badge/javascript-%23f68c60?style=for-the-badge&logo=javascript&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=fff)
+![Databricks](https://img.shields.io/badge/databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=fff)
+![jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=fff)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=fff)
 ![Quickbook](https://img.shields.io/badge/quickbooks-%238cc269?style=for-the-badge&logo=quickbooks&logoColor=white)
 ![Sap](https://img.shields.io/badge/sap-%2311659a?style=for-the-badge&logo=sap&logoColor=white)
@@ -29,6 +31,8 @@ Today, I am here because I know how to turn uncertainty into opportunity, and st
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=fff)
 
 ### Send me a message!
+
+I’m always open to connecting with new people, exchanging ideas, and exploring opportunities. Whether you’d like to discuss data-driven strategies, share insights from your industry, or simply start a conversation, I’d be glad to hear from you. 💬
 
 <a href="https://www.linkedin.com/in/weihan-weng-026734227">
   <img alt="Linkedin" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" />
