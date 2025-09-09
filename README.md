@@ -28,11 +28,15 @@ Today, I am here because I know how to turn uncertainty into opportunity, and st
   <img alt="Linkedin" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" />
 </a>
 <a href="https://www.instagram.com/willow92weng">
- <img alt="PlayStation" src="https://img.shields.io/badge/instagram-%23f8b37f?style=for-the-badge&logo=instagram&logoColor=white" />
+ <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23ed5a65?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/weihan.weng.1/">
+ <img alt="Facebook" src="https://img.shields.io/badge/facebook-%2366889e?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 <a href="https://profile.playstation.com/mywillow92">
  <img alt="PlayStation" src="https://img.shields.io/badge/playstation-%2312507b?style=for-the-badge&logo=playstation&logoColor=white" />
 </a>
+
 
 
 
